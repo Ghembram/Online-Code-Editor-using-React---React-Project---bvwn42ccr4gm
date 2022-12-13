@@ -1,4 +1,4 @@
-# Online-Code-Editor-using-React---React-Project---bvwn42ccr4gm
+# Online-Code-Editor-using-React-Codemirror
 
 <img src="./src/demo-image.png" alt="demo image" />
 
@@ -15,12 +15,6 @@
 - Material theme
 - Mobile responsive
 
-
-# Built With
-
-- React
-- CodeMirror
-- Codemirror2
 
 # Npm Packages Used
 - Fort Awesome(for icons)
