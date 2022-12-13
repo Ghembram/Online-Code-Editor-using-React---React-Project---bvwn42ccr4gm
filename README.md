@@ -14,3 +14,15 @@
 - Expand-collapse code editors
 - Material theme
 - Mobile responsive
+
+
+# Built With
+
+- React
+- CodeMirror
+- Codemirror2
+
+# Npm Packages Used
+- Fort Awesome(for icons)
+- fullscreen-react
+
