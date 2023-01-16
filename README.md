@@ -20,5 +20,5 @@
 - Fort Awesome(for icons)
 - fullscreen-react
 
-## A codepen clone,built with React and CodeMirror supports screen size of generic tablet. Below that, the text would become illegible, So, an error message will be displayed for screens 400px and below. 
+## A codepen clone,built with React and CodeMirror supports screen size of generic tablet. Below that, the text would become in-illegible, So, an error message will be displayed for screens 400px and below. 
 
